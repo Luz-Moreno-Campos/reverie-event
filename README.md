@@ -30,5 +30,11 @@ The website highlights our services, philosophy, and design style through a clea
 
 ---
 
+## Application Screenshot
+
+![Application Screenshot](assets/media/ScreenshotReverie.png)
+
+
+
 ## 🚀 Demo
 You can view the live demo here: https://luz-moreno-campos.github.io/reverie-event/
