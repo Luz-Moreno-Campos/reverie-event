@@ -31,4 +31,4 @@ The website highlights our services, philosophy, and design style through a clea
 ---
 
 ## 🚀 Demo
-You can view the live demo here:
+You can view the live demo here: https://luz-moreno-campos.github.io/reverie-event/
